@@ -1,0 +1,10 @@
+.portfolio{
+    background-color: #f9f9f9;
+}
+.portfolio .main-title {
+    color: var(--primary-orange);
+}
+.portfolio img{
+    width: 220px;
+    margin: 7px 7px;
+}

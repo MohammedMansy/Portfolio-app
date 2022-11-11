@@ -1,0 +1,19 @@
+.about{
+    padding: 90px 0 ;
+}
+.box-image{
+    align-content: flex-end;
+}
+.myself{
+    width: 270px;
+   border-radius: 50%;
+   padding: 4px;
+   border: 1px solid var(--primary-orange);
+}
+
+.tittle-about{
+    text-transform: uppercase;
+    font-weight: 400;
+    color: var( --primary-orange);
+
+}
